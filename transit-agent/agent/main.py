@@ -25,11 +25,11 @@ logger = logging.getLogger(__name__)
 
 # Startup intros by rider type (fixed copy, no LLM)
 INTRO_COMMUTER = (
-    "Welcome aboard. This is Clyde — I can adjust the lights, temperature, and music, "
+    "Welcome aboard. This is Gladys — I can adjust the lights, temperature, and music, "
     "or answer questions about your route. Just speak whenever you're ready."
 )
 INTRO_DEMO = (
-    "Welcome aboard a Glydways vehicle — transit, designed for riders. I'm Clyde, your in-cabin "
+    "Welcome aboard a Glydways vehicle — transit, designed for riders. I'm Gladys, your in-cabin "
     "assistant for this ride. I can control the lights, temperature, and audio, keep you updated on "
     "your route, or just answer questions. You don't need to memorize commands — if there's something "
     "I can help with, I'll let you know. Otherwise, just speak naturally and I'm here."
